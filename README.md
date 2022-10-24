@@ -1,2 +1,2 @@
 # Automacao180
-Automação de WEB,API utilizando conteinerização com Docker e VM/Linux
+Curso QANINJA automação 180 , automação de API , WEB e conteinerização com Docker em VM/Linux utilizando banco de dados MongoDB.
